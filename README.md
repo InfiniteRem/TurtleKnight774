@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TurtleKnight774
 - 👀 I'm new to coding
 - 🌱 I’m currently learning python
-- 📫 How to reach me on instagram @mrsprinnkles
+- 📫 How to reach me: @mrsprinnkles (On instagram)
 
 <!---
 TurtleKnight774/TurtleKnight774 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
