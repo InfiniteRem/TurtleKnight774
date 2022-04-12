@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TurtleKnight774
+- 👋 Hi, I’m @Infinite
 - 👀 I'm new to coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Lua
 - 📫 How to reach me: @mrsprinnkles (On instagram)
 
 <!---
